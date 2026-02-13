@@ -2,6 +2,9 @@
 粘弾性体マニピュレーターを用いた冗長マニピュレータの制御手法についてのシミュレーションコードです。\
 これまでは、マニピュレータの各リンクを剛体としていた部分をバネとして見立てたモデルです。\
 \
+Centralized_control：集中制御のシミュレータ\
+Distributed_Control：分散知能のシミュレータ
+\
 以下概要スライドです。\
 \
 <img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/a50357e4-2d90-451f-9278-34cd72f3e775" />
