@@ -13,6 +13,7 @@
 - ### ＜other＞
     - 上記以外で齊藤が作成・使いまわしていたコード達が集まっています。開発途中のversionもあるため、必要に応じて見る形にしてください。（本人も、どのversionが何ができていて何ができていないか覚えていないです...）\
 \
+## 研究概要
 以下概要スライドです。
 <img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/a50357e4-2d90-451f-9278-34cd72f3e775" />
 <img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/4fd067dc-4b67-42c7-80ca-2555be988306" />
