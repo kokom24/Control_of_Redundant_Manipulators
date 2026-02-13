@@ -1,0 +1,288 @@
+parameter:
+ link:20 
+ success_rate:0.6535947712418301 
+
+parameter:
+ link:21 
+ success_rate:0.6578947368421052 
+
+parameter:
+ link:19 
+ success_rate:7.926829268292683 
+
+parameter:
+ link:22 
+ success_rate:1.948051948051948 
+
+parameter:
+ link:23 
+ success_rate:0.6578947368421052 
+
+parameter:
+ link:24 
+ success_rate:0.0 
+
+parameter:
+ link:25 
+ success_rate:0.0 
+
+parameter:
+ link:18 
+ success_rate:21.1340206185567 
+
+parameter:
+ link:13 
+ success_rate:32.89473684210527 
+
+parameter:
+ link:2 
+ success_rate:87.1 
+
+parameter:
+ link:17 
+ success_rate:27.27272727272727 
+
+parameter:
+ link:15 
+ success_rate:32.59911894273127 
+
+parameter:
+ link:16 
+ success_rate:36.77685950413223 
+
+parameter:
+ link:12 
+ success_rate:27.75330396475771 
+
+parameter:
+ link:14 
+ success_rate:40.92664092664093 
+
+parameter:
+ link:4 
+ success_rate:78.4 
+
+parameter:
+ link:3 
+ success_rate:63.1 
+
+parameter:
+ link:11 
+ success_rate:30.16304347826087 
+
+parameter:
+ link:5 
+ success_rate:35.6 
+
+parameter:
+ link:6 
+ success_rate:51.300000000000004 
+
+parameter:
+ link:7 
+ success_rate:45.800000000000004 
+
+parameter:
+ link:8 
+ success_rate:49.5 
+
+parameter:
+ link:9 
+ success_rate:46.9 
+
+parameter:
+ link:10 
+ success_rate:40.0 
+
+parameter:
+ link:20 
+ success_rate:2.564102564102564 
+
+parameter:
+ link:19 
+ success_rate:3.821656050955414 
+
+parameter:
+ link:21 
+ success_rate:1.948051948051948 
+
+parameter:
+ link:22 
+ success_rate:0.6578947368421052 
+
+parameter:
+ link:24 
+ success_rate:0.6578947368421052 
+
+parameter:
+ link:23 
+ success_rate:0.6535947712418301 
+
+parameter:
+ link:25 
+ success_rate:0.0 
+
+parameter:
+ link:18 
+ success_rate:19.576719576719576 
+
+parameter:
+ link:2 
+ success_rate:85.2 
+
+parameter:
+ link:17 
+ success_rate:28.37209302325581 
+
+parameter:
+ link:15 
+ success_rate:32.608695652173914 
+
+parameter:
+ link:13 
+ success_rate:37.39837398373984 
+
+parameter:
+ link:14 
+ success_rate:35.98326359832636 
+
+parameter:
+ link:16 
+ success_rate:36.885245901639344 
+
+parameter:
+ link:12 
+ success_rate:29.435483870967744 
+
+parameter:
+ link:3 
+ success_rate:65.3 
+
+parameter:
+ link:4 
+ success_rate:78.3 
+
+parameter:
+ link:11 
+ success_rate:37.8021978021978 
+
+parameter:
+ link:5 
+ success_rate:32.800000000000004 
+
+parameter:
+ link:6 
+ success_rate:50.0 
+
+parameter:
+ link:7 
+ success_rate:45.9 
+
+parameter:
+ link:8 
+ success_rate:48.5 
+
+parameter:
+ link:9 
+ success_rate:46.400000000000006 
+
+parameter:
+ link:10 
+ success_rate:37.9 
+
+parameter:
+ link:2 
+ success_rate:0.0 
+
+parameter:
+ link:3 
+ success_rate:0.0 
+
+parameter:
+ link:4 
+ success_rate:0.0 
+
+parameter:
+ link:5 
+ success_rate:0.0 
+
+parameter:
+ link:6 
+ success_rate:0.0 
+
+parameter:
+ link:7 
+ success_rate:0.0 
+
+parameter:
+ link:8 
+ success_rate:0.0 
+
+parameter:
+ link:9 
+ success_rate:0.0 
+
+parameter:
+ link:10 
+ success_rate:0.0 
+
+parameter:
+ link:11 
+ success_rate:0.0 
+
+parameter:
+ link:12 
+ success_rate:0.0 
+
+parameter:
+ link:13 
+ success_rate:0.0 
+
+parameter:
+ link:14 
+ success_rate:0.0 
+
+parameter:
+ link:15 
+ success_rate:0.0 
+
+parameter:
+ link:16 
+ success_rate:0.0 
+
+parameter:
+ link:18 
+ success_rate:0.0 
+
+parameter:
+ link:17 
+ success_rate:0.0 
+
+parameter:
+ link:19 
+ success_rate:0.0 
+
+parameter:
+ link:20 
+ success_rate:0.0 
+
+parameter:
+ link:21 
+ success_rate:0.0 
+
+parameter:
+ link:22 
+ success_rate:0.0 
+
+parameter:
+ link:23 
+ success_rate:0.0 
+
+parameter:
+ link:24 
+ success_rate:0.0 
+
+parameter:
+ link:25 
+ success_rate:0.0 
+

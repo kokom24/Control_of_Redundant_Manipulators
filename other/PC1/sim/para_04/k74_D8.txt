@@ -1,0 +1,96 @@
+parameter:
+ link:2 
+ success_rate:100.0 
+
+parameter:
+ link:3 
+ success_rate:100.0 
+
+parameter:
+ link:5 
+ success_rate:100.0 
+
+parameter:
+ link:4 
+ success_rate:100.0 
+
+parameter:
+ link:6 
+ success_rate:100.0 
+
+parameter:
+ link:7 
+ success_rate:100.0 
+
+parameter:
+ link:8 
+ success_rate:100.0 
+
+parameter:
+ link:9 
+ success_rate:100.0 
+
+parameter:
+ link:11 
+ success_rate:100.0 
+
+parameter:
+ link:10 
+ success_rate:100.0 
+
+parameter:
+ link:12 
+ success_rate:100.0 
+
+parameter:
+ link:13 
+ success_rate:100.0 
+
+parameter:
+ link:16 
+ success_rate:100.0 
+
+parameter:
+ link:15 
+ success_rate:100.0 
+
+parameter:
+ link:14 
+ success_rate:100.0 
+
+parameter:
+ link:21 
+ success_rate:100.0 
+
+parameter:
+ link:17 
+ success_rate:100.0 
+
+parameter:
+ link:23 
+ success_rate:100.0 
+
+parameter:
+ link:19 
+ success_rate:100.0 
+
+parameter:
+ link:25 
+ success_rate:100.0 
+
+parameter:
+ link:22 
+ success_rate:100.0 
+
+parameter:
+ link:18 
+ success_rate:0.0 
+
+parameter:
+ link:24 
+ success_rate:100.0 
+
+parameter:
+ link:20 
+ success_rate:0.0 
+

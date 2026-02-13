@@ -1,0 +1,48 @@
+parameter:
+ link:2 
+ success_rate:7.75 
+
+parameter:
+ link:3 
+ success_rate:12.4 
+
+parameter:
+ link:4 
+ success_rate:15.75 
+
+parameter:
+ link:5 
+ success_rate:14.249999999999998 
+
+parameter:
+ link:6 
+ success_rate:10.4 
+
+parameter:
+ link:7 
+ success_rate:9.049999999999999 
+
+parameter:
+ link:8 
+ success_rate:7.249999999999999 
+
+parameter:
+ link:9 
+ success_rate:6.6000000000000005 
+
+parameter:
+ link:10 
+ success_rate:5.35 
+
+parameter:
+ link:11 
+ success_rate:4.5 
+
+parameter:
+ link:12 
+ success_rate:4.3 
+
+parameter:
+ link:13 
+ success_rate:3.0 
+
