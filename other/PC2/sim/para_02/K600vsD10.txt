@@ -1,0 +1,192 @@
+parameter:
+ link:16 
+ success_rate:0.0 
+
+parameter:
+ link:15 
+ success_rate:0.0 
+
+parameter:
+ link:17 
+ success_rate:0.0 
+
+parameter:
+ link:14 
+ success_rate:0.0 
+
+parameter:
+ link:19 
+ success_rate:0.0 
+
+parameter:
+ link:20 
+ success_rate:0.0 
+
+parameter:
+ link:18 
+ success_rate:0.0 
+
+parameter:
+ link:13 
+ success_rate:0.0 
+
+parameter:
+ link:12 
+ success_rate:0.9803921568627451 
+
+parameter:
+ link:21 
+ success_rate:0.0 
+
+parameter:
+ link:11 
+ success_rate:0.0 
+
+parameter:
+ link:22 
+ success_rate:0.0 
+
+parameter:
+ link:23 
+ success_rate:0.0 
+
+parameter:
+ link:24 
+ success_rate:0.0 
+
+parameter:
+ link:2 
+ success_rate:100.0 
+
+parameter:
+ link:25 
+ success_rate:0.0 
+
+parameter:
+ link:9 
+ success_rate:1.3824884792626728 
+
+parameter:
+ link:10 
+ success_rate:0.0 
+
+parameter:
+ link:8 
+ success_rate:3.9215686274509802 
+
+parameter:
+ link:4 
+ success_rate:80.2 
+
+parameter:
+ link:3 
+ success_rate:46.300000000000004 
+
+parameter:
+ link:7 
+ success_rate:5.151915455746367 
+
+parameter:
+ link:6 
+ success_rate:15.577889447236181 
+
+parameter:
+ link:5 
+ success_rate:17.5 
+
+parameter:
+ link:16 
+ success_rate:0.0 
+
+parameter:
+ link:15 
+ success_rate:0.0 
+
+parameter:
+ link:17 
+ success_rate:0.0 
+
+parameter:
+ link:14 
+ success_rate:0.0 
+
+parameter:
+ link:19 
+ success_rate:0.0 
+
+parameter:
+ link:20 
+ success_rate:0.0 
+
+parameter:
+ link:18 
+ success_rate:0.0 
+
+parameter:
+ link:13 
+ success_rate:0.0 
+
+parameter:
+ link:12 
+ success_rate:0.4878048780487805 
+
+parameter:
+ link:21 
+ success_rate:0.0 
+
+parameter:
+ link:22 
+ success_rate:0.0 
+
+parameter:
+ link:11 
+ success_rate:0.0 
+
+parameter:
+ link:24 
+ success_rate:0.0 
+
+parameter:
+ link:2 
+ success_rate:100.0 
+
+parameter:
+ link:23 
+ success_rate:0.0 
+
+parameter:
+ link:25 
+ success_rate:0.0 
+
+parameter:
+ link:9 
+ success_rate:1.3392857142857142 
+
+parameter:
+ link:10 
+ success_rate:0.0 
+
+parameter:
+ link:8 
+ success_rate:4.62046204620462 
+
+parameter:
+ link:4 
+ success_rate:82.5 
+
+parameter:
+ link:3 
+ success_rate:50.3 
+
+parameter:
+ link:7 
+ success_rate:6.557377049180328 
+
+parameter:
+ link:6 
+ success_rate:14.899999999999999 
+
+parameter:
+ link:5 
+ success_rate:17.4 
+

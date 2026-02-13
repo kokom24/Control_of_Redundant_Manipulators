@@ -1,0 +1,5 @@
+parameter:
+theta_0:80 
+theta_n:60 
+success_rate:98.6 
+

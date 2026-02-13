@@ -1,0 +1,192 @@
+parameter:
+ link:2 
+ success_rate:100.0 
+
+parameter:
+ link:4 
+ success_rate:100.0 
+
+parameter:
+ link:5 
+ success_rate:97.3 
+
+parameter:
+ link:3 
+ success_rate:83.7 
+
+parameter:
+ link:6 
+ success_rate:97.1 
+
+parameter:
+ link:8 
+ success_rate:91.2 
+
+parameter:
+ link:9 
+ success_rate:94.0 
+
+parameter:
+ link:7 
+ success_rate:80.5 
+
+parameter:
+ link:10 
+ success_rate:90.2 
+
+parameter:
+ link:11 
+ success_rate:94.89999999999999 
+
+parameter:
+ link:12 
+ success_rate:93.7 
+
+parameter:
+ link:13 
+ success_rate:94.1 
+
+parameter:
+ link:14 
+ success_rate:94.39999999999999 
+
+parameter:
+ link:15 
+ success_rate:89.5 
+
+parameter:
+ link:16 
+ success_rate:90.5 
+
+parameter:
+ link:17 
+ success_rate:93.0 
+
+parameter:
+ link:18 
+ success_rate:93.4 
+
+parameter:
+ link:19 
+ success_rate:93.60000000000001 
+
+parameter:
+ link:20 
+ success_rate:93.60000000000001 
+
+parameter:
+ link:21 
+ success_rate:94.89999999999999 
+
+parameter:
+ link:22 
+ success_rate:92.9 
+
+parameter:
+ link:23 
+ success_rate:91.8 
+
+parameter:
+ link:24 
+ success_rate:92.7 
+
+parameter:
+ link:25 
+ success_rate:92.4 
+
+parameter:
+ link:2 
+ success_rate:100.0 
+
+parameter:
+ link:4 
+ success_rate:100.0 
+
+parameter:
+ link:5 
+ success_rate:97.3 
+
+parameter:
+ link:3 
+ success_rate:83.1 
+
+parameter:
+ link:6 
+ success_rate:97.1 
+
+parameter:
+ link:8 
+ success_rate:92.2 
+
+parameter:
+ link:9 
+ success_rate:94.5 
+
+parameter:
+ link:7 
+ success_rate:81.10000000000001 
+
+parameter:
+ link:10 
+ success_rate:89.1 
+
+parameter:
+ link:11 
+ success_rate:95.6 
+
+parameter:
+ link:12 
+ success_rate:93.89999999999999 
+
+parameter:
+ link:13 
+ success_rate:96.3 
+
+parameter:
+ link:14 
+ success_rate:95.89999999999999 
+
+parameter:
+ link:15 
+ success_rate:89.1 
+
+parameter:
+ link:16 
+ success_rate:89.9 
+
+parameter:
+ link:17 
+ success_rate:93.7 
+
+parameter:
+ link:18 
+ success_rate:91.4 
+
+parameter:
+ link:19 
+ success_rate:95.5 
+
+parameter:
+ link:20 
+ success_rate:93.8 
+
+parameter:
+ link:21 
+ success_rate:94.19999999999999 
+
+parameter:
+ link:22 
+ success_rate:93.7 
+
+parameter:
+ link:23 
+ success_rate:92.80000000000001 
+
+parameter:
+ link:24 
+ success_rate:93.0 
+
+parameter:
+ link:25 
+ success_rate:92.30000000000001 
+
